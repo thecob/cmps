@@ -1,6 +1,4 @@
-[{
-    "name": "computer",
-    "stats": [
+[
     {
       "year_name": "2562",
       "year_count": 16
@@ -20,6 +18,5 @@
     },{
       "year_name": "2557",
       "year_count": 1
-    }
-    ]
+    
   }]
