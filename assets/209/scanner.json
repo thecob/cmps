@@ -1,6 +1,4 @@
-[{
-    "name": "scanner",
-    "stats": [{
+ [{
       "year_name": "2562",
       "year_count": 2
     }, {
@@ -9,5 +7,5 @@
     }, {
       "year_name": "2559",
       "year_count": 1
-    }]
+   
   }]
