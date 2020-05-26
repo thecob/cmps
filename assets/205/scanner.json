@@ -1,6 +1,4 @@
 [{
-    "name": "scanner",
-    "stats": [{
       "year_name": "2563",
       "year_count": 2
     }, {
@@ -10,4 +8,4 @@
       "year_name": "2561",
       "year_count": 1
     }]
-  }]
+ 
