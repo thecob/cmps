@@ -1,6 +1,4 @@
 [{
-    "name": "computer",
-    "stats": [{
       "year_name": "2563",
       "year_count": 2
     }, {
@@ -19,5 +17,4 @@
       "year_name": "2557",
       "year_count": 3
     }
-    ]
   }]
