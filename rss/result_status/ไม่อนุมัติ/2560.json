@@ -1,10 +1,13 @@
 [{
-"status_name" : "อนุมัติ",
-"status_count" : 30,
+"comType_name" : "Computer",
+"comType_count" : 78
  },{
-"status_name" : "ไม่อนุมัติ",
-"status_count" : 80,
+"comType_name" : "Printer",
+"status_count" : 52
  },{
-"status_name" : "อนุมัติบางรายการ",
-"status_count" : 78,
+"comType_name" : "Scanner",
+"comType_count" : 54
+ },{
+"comType_name" : "Fingerscan",
+"comType_count" : 12
  }]

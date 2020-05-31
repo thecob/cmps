@@ -1,10 +1,14 @@
 [{
-"status_name" : "อนุมัติ",
-"status_count" : 20,
+"comType_name" : "Computer",
+"comType_count" :130
  },{
-"status_name" : "ไม่อนุมัติ",
-"status_count" : 50,
+"comType_name" : "Printer",
+"status_count" : 50
  },{
-"status_name" : "อนุมัติบางรายการ",
-"status_count" : 40,
+"comType_name" : "Scanner",
+"comType_count" : 140
+ },{
+"comType_name" : "Fingerscan",
+"comType_count" : 10
  }]
+/Users/student08/Downloads/cmps-master/rss/result_status/อนุมัติ/2558.json
