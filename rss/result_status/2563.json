@@ -1,10 +1,10 @@
 [{
 "status_name" : "อนุมัติ",
-"status_count" : "45",
+"status_count" : 45,
  },{
 "status_name" : "ไม่อนุมัติ",
-"status_count" : "78",
+"status_count" : 78,
  },{
 "status_name" : "อนุมัติบางรายการ",
-"status_count" : "54",
+"status_count" : 54,
  }]
