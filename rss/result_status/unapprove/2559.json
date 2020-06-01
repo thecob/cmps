@@ -1,13 +1,4 @@
 [{
-"comType_name" : "Computer",
-"comType_count" : 278
- },{
-"comType_name" : "Printer",
-"comType_count" : 150
- },{
-"comType_name" : "Scanner",
-"comType_count" : 45
- },{
-"comType_name" : "Fingerscan",
-"comType_count" : 3
- }]
+"status_name" : "ไม่อนุมัติ",
+"status_count" : 178
+
