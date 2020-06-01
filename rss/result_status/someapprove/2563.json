@@ -1,14 +1,5 @@
 [{
-"comType_name" : "Computer",
-"comType_count" : 85
- },{
-"comType_name" : "Printer",
-"comType_count" : 25
- },{
-"comType_name" : "Scanner",
-"comType_count" : 78
- },{
-"comType_name" : "Fingerscan",
-"comType_count" : 7
+"status_name" : "อนุมัติบางรายการ",
+"status_count" :76
  }]
 
