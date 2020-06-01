@@ -1,10 +1,10 @@
 [{
-  "status_name" : "อนุมัติ",
-  "comType_count" :50
+"status_name" : "อนุมัติ",
+"status_count" :308
  },{
-  "status_name" : "ไม่อนุมัติ",  
-"comType_count" :100
+"status_name" : "ไม่อนุมัติ",
+"status_count" :308
  },{
 "status_name" : "อนุมัติบางรายการ",
- "comType_count" :5
+"status_count" :308
  }]
