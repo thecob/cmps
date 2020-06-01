@@ -1,0 +1,10 @@
+[{
+  "status_name" : "อนุมัติ",
+  "comType_count" :10
+ },{
+  "status_name" : "ไม่อนุมัติ",  
+"comType_count" :230
+ },{
+"status_name" : "อนุมัติบางรายการ",
+ "comType_count" :15
+ }]
