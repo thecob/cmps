@@ -1,0 +1,13 @@
+[{
+  "comType_name" : "computer",
+  "conType_count" : 544
+},{
+  "comType_name" : "printer",
+  "conType_count" : 377
+},{
+   "comType_name" : "scanner",
+  "conType_count" : 89
+},{
+  "comType_name" : "fingerscan",
+  "conType_count" : 12
+}]
