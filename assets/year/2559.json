@@ -1,12 +1,12 @@
 [{
 "comType_name" : "computer",
-"comType_count" : 100
+"comType_count" : 1000
 },{
 "comType_name" : "printer",
-"comType_count" : 320
+"comType_count" : 3694
 },{
 "comType_name" : "scanner",
-"comType_count" : 290
+"comType_count" : 656
 },{
 "comType_name" : "fingerscan",
 "comType_count" : 180
