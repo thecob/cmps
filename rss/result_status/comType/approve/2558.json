@@ -1,6 +1,6 @@
 [{
   "comType_name" : "computer",
-  "comType_count" : 20
+  "comType_count" : 8
 },{
   "comType_name" : "printer",
   "comType_count" : 30
@@ -9,5 +9,5 @@
   "comType_count" : 0
 },{
   "comType_name" : "fingerscan",
-  "comType_count" : 9
+  "comType_count" : 0
 }]
