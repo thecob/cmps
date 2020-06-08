@@ -3,11 +3,11 @@
 "comType_count" : 2200
 },{
 "comType_name" : "printer",
-"comType_count" : 381
+"comType_count" : 1580
 },{
 "comType_name" : "scanner",
-"comType_count" : 900
+"comType_count" : 634
 },{
 "comType_name" : "fingerscan",
-"comType_count" : 381
+"comType_count" : 12
 }]
